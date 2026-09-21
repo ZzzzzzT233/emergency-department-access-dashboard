@@ -4,6 +4,8 @@ A public-health decision-support website for state health agencies and hospital 
 
 **Live website:** https://community-health-resource-planner.tong-zhou.chatgpt.site/
 
+**Presentation Video Link:** https://drive.google.com/file/d/1YRK0smwJkUUwvGdj_mzBk_DAF-jqs9Ki/view?usp=share_link
+
 ## Run locally
 
 No package installation or build step is required. With Python 3 installed, run from this repository:
